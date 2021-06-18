@@ -1,0 +1,90 @@
+[
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "VmlyZ2luIFRyYWlucywgVmlyZ2luIEF0bGFudGljIGFuZCBWaXJnaW4gUmFjaW5nLCBhcmUgYWxsIGNvbXBhbmllcyBvd25lZCBieSB3aGljaCBmYW1vdXMgZW50cmVwcmVuZXVyPyAgIA==",
+    "correct_answer": "UmljaGFyZCBCcmFuc29u",
+    "incorrect_answers": [
+      "QWxhbiBTdWdhcg==",
+      "RG9uYWxkIFRydW1w",
+      "QmlsbCBHYXRlcw=="
+    ]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBnZW9tZXRyaWMgc2hhcGUgaXMgZ2VuZXJhbGx5IHVzZWQgZm9yIHN0b3Agc2lnbnM/",
+    "correct_answer": "T2N0YWdvbg==",
+    "incorrect_answers": ["SGV4YWdvbg==", "Q2lyY2xl", "VHJpYW5nbGU="]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "UmVkIFZpbmVzIGlzIGEgYnJhbmQgb2Ygd2hhdCB0eXBlIG9mIGNhbmR5Pw==",
+    "correct_answer": "TGljb3JpY2U=",
+    "incorrect_answers": ["TG9sbGlwb3A=", "Q2hvY29sYXRl", "QnViYmxlZ3Vt"]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hpY2ggb2YgdGhlIGZvbGxvd2luZyBjYXJkIGdhbWVzIHJldm9sdmVzIGFyb3VuZCBudW1iZXJzIGFuZCBiYXNpYyBtYXRoPw==",
+    "correct_answer": "VW5v",
+    "incorrect_answers": ["R28gRmlzaA==", "VHdpc3Rlcg==", "TXVuY2hraW4="]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBtYWNoaW5lIGVsZW1lbnQgaXMgbG9jYXRlZCBpbiB0aGUgY2VudGVyIG9mIGZpZGdldCBzcGlubmVycz8=",
+    "correct_answer": "QmVhcmluZ3M=",
+    "incorrect_answers": ["QXhsZXM=", "R2VhcnM=", "QmVsdHM="]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBpcyBUYXNtYW5pYT8=",
+    "correct_answer": "QW4gQXVzdHJhbGlhbiBTdGF0ZQ==",
+    "incorrect_answers": [
+      "QSBmbGF2b3Igb2YgQmVuIGFuZCBKZXJyeSdzIGljZS1jcmVhbQ==",
+      "QSBQc3ljaG9sb2dpY2FsIERpc29yZGVy",
+      "VGhlIE5hbWUgb2YgYSBXYXJuZXIgQnJvdGhlcnMgQ2FydG9vbiBDaGFyYWN0ZXI="
+    ]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBpcyB0aGUgWm9kaWFjIHN5bWJvbCBmb3IgR2VtaW5pPw==",
+    "correct_answer": "VHdpbnM=",
+    "incorrect_answers": ["RmlzaA==", "U2NhbGVz", "TWFpZGVu"]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBudXRzIGFyZSB1c2VkIGluIHRoZSBwcm9kdWN0aW9uIG9mIG1hcnppcGFuPw==",
+    "correct_answer": "QWxtb25kcw==",
+    "incorrect_answers": ["UGVhbnV0cw==", "V2FsbnV0cw==", "UGlzdGFjaGlvcw=="]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBpcyB0aGUgcHJvZmVzc2lvbiBvZiBFbG9uIE11c2sncyBtb20sIE1heWUgTXVzaz8=",
+    "correct_answer": "TW9kZWw=",
+    "incorrect_answers": ["UHJvZmVzc29y", "QmlvbG9naXN0", "TXVzaWNpYW4="]
+  },
+  {
+    "category": "R2VuZXJhbCBLbm93bGVkZ2U=",
+    "type": "bXVsdGlwbGU=",
+    "difficulty": "ZWFzeQ==",
+    "question": "V2hhdCBhaXJsaW5lIHdhcyB0aGUgb3duZXIgb2YgdGhlIHBsYW5lIHRoYXQgY3Jhc2hlZCBvZmYgdGhlIGNvYXN0IG9mIE5vdmEgU2NvdGlhIGluIDE5OTg/",
+    "correct_answer": "U3dpc3MgQWly",
+    "incorrect_answers": ["QWlyIEZyYW5jZQ==", "QnJpdGlzaCBBaXJ3YXlz", "VFdB"]
+  }
+]
